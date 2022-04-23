@@ -82,7 +82,7 @@ def log_sel():
     elif select == '3':
         os.system('xdg-open https://youtube.com/channel/UCv3xnTA7veQe64UYUwDybEg')
     elif select == '0':
-        os.system('xdg-open https://wa.me/+01841004250')
+        os.system('xdg-open https://wa.me/+8801841004250')
 	main()
     else:
         print ''
