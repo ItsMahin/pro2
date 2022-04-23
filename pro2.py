@@ -65,7 +65,8 @@ def main():
     print ' [1].\x1b[1;96m Start Cloning'
     print ' \033[0m[2].\x1b[1;96m Follow In Fb Or Yt '
     print ' \033[0m[3].\x1b[1;96m New Channel Go & Sub Guyss '
-    print ' \033[0m[0].\x1b[1;96m Exit Tool \n'
+    print ' \033[0m[4].\x1b[1;96m Exit Tool \n'
+    print ' \033[0m[0].\x1b[1;96m contact its Mahin '
     print ''
     log_sel()
 
