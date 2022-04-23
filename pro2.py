@@ -69,42 +69,6 @@ def main():
     print ''
     log_sel()
 
-CorrectUsername = "BMX"
-
-CorrectPassword = "CEO MAHIN"
-
-loop = 'true'
-
-while (loop == 'true'):
-
-    username = raw_input("\033[1;91m🔐 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;93m")
-
-    if (username == CorrectUsername):
-
-    	password = raw_input("\033[1;94m🔐 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")        if (password == CorrectPassword):
-
-            print "Logged in successfully as " + username #Dev:BMX TEAN
-
-	    time.sleep(2)
-
-            loop = 'false'
-
-        else:
-
-            print "\033[1;91mWrong Password"
-
-            os.system('xdg-open https://www.facebook.com/groups/224469761919897/?ref=share')
-
-    else:
-
-        print "\033[1;94mWrong Username"
-
-        os.system('xdg-open https://www.facebook.com/groups/224469761919897/?ref=share')
-
-def login():
-
-	os.system('clear')
-
 def log_sel():
     select = raw_input('\x1b[1;97m SELECT: \x1b[0m')
     if select == '1':
