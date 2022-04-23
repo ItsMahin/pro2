@@ -77,11 +77,13 @@ def log_sel():
     elif select == '2':
         os.system('xdg-open https://youtu.be/7ey463HiVSA')
         main()
-    elif select == '0':
+    elif select == '4':
         os.system('exit')
     elif select == '3':
         os.system('xdg-open https://youtube.com/channel/UCv3xnTA7veQe64UYUwDybEg')
-        main()
+    elif select == '0':
+        os.system('xdg-open https://wa.me/+01841004250')
+	main()
     else:
         print ''
         print '\tError Invalid Select'
