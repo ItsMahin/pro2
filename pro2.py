@@ -50,9 +50,9 @@ logo = """
 
                                            
 \n\033[0m----------------------------------
-\033[1;92mAuthor \033[1;93m: Tech Qaiser
-\033[1;92mFb \033[1;93m: Muhammad Bilal
-\033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
+\033[1;92mAuthor \033[1;93m: Its Mahin
+\033[1;33mFb \033[1;93m: Mahin Ahmes
+\033[1;92mDisclaimer \033[1;93m: 7day Free😍
 \033[0m----------------------------------
 
 """
